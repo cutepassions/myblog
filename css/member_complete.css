@@ -1,0 +1,6 @@
+#complete_box { width: 429px; margin: 0 auto; }
+#complete_title { margin: 100px 0 0 0; padding-bottom: 5px;	border-bottom: solid 2px #824c96; }
+#complete_title span {	font-size: 15px;}
+#close .buttons { text-align: center; margin: 20px 0 40px 0; }
+#close .buttons li { display: inline; }
+#close .buttons button { padding: 5px 10px; cursor: pointer; }
