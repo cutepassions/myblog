@@ -1,7 +1,7 @@
 # myblog (개인 블로그)
 ## 프로젝트 개요
 ### 목표
-- 반응형 웹과 기타 기능들을 통한 블로그 구축   
+- 반응형 웹과 기타 기능들을 통한 개인 블로그 구축   
 ### 사용 스킬
 - HTML5, CSS, javascript, PHP, mariaDB
 ### 대표적인 기능
@@ -14,7 +14,7 @@
 ### 소요기간
 - 3개월 (2021.03~2021.06)
 ### 완성된 사이트
-- http://woosuk.izerone.co.kr:8090/~s120171838/   
+- https://www.jbu.co.kr/~myblog  
 ### 참고 자료
 - https://www.w3schools.com/
 ### 아쉬운 점
@@ -38,7 +38,7 @@
 ### 소요기간
 - 3개월 (2021.09~2021.12)
 ### 완성된 사이트
-- http://woosuk.izerone.co.kr:8090/~s120171838/
+- https://www.jbu.co.kr/~myblog
 ### 참고 자료
 - https://dvwa.co.uk/
 ### 아쉬운 점
