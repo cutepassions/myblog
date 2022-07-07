@@ -3,7 +3,7 @@
 ### 목표
 - 반응형 웹과 기타 기능들을 통한 개인 블로그 구축   
 ### 사용 스킬
-- HTML5, CSS, javascript, PHP, mariaDB
+- HTML5, CSS, javascript, PHP(7.4), mariaDB
 ### 대표적인 기능
 - 회원가입
 - 로그인/로그아웃
