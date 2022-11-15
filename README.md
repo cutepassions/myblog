@@ -14,7 +14,8 @@
 ### 소요기간
 - 3개월 (2021.03~2021.06)
 ### 완성된 사이트
-- https://www.jbu.co.kr/~myblog  
+- https://www.jbu.co.kr/~myblog
+![image](https://user-images.githubusercontent.com/105566077/201998836-6dcdfaa0-6589-4104-a008-15b6519134d3.png)
 ### 참고 자료
 - https://www.w3schools.com/
 ### 아쉬운 점
@@ -39,6 +40,7 @@
 - 3개월 (2021.09~2021.12)
 ### 완성된 사이트
 - https://www.jbu.co.kr/~myblog
+![image](https://user-images.githubusercontent.com/105566077/201998879-01d4cd55-f81c-43e0-b2db-46d534e709ad.png)
 ### 참고 자료
 - https://dvwa.co.uk/
 ### 아쉬운 점
